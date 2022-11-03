@@ -1,38 +1,97 @@
-.container-fluid {
-  background-color: white;
+body {
+  background-color: #ad425d;
 }
 
-section3 {
-  color: rgb(206, 44, 44);
-  padding: 50px;
-  margin-bottom: 2px;
-  margin-right: 10px;
+#intro {
+  height: 100vh;
+  color: #000;
 }
 
-#colMenu {
-  border: 3px solid black;
-  margin-right: 3px;
-}
-#magGlass {
-  text-align: end;
-}
-#one {
-  border: 4px solid purple;
-}
-#two {
-  border: 4px solid purple;
+#intro code {
+  margin-top: 20px;
+  color: white;
 }
 
-#highschooler,
-#city {
-  border: 3px solid blue;
-}
-#want {
-  text-align: center;
-  color: green;
-  font-size: larger;
+#intro h1 {
+  font-size: 60px;
+  margin-bottom: 20px;
+  font-weight: 80px;
+  animation: fadin ease-in 1s;
 }
 
-#submit {
-  text-align: justify;
+#intro h2 {
+  /* animation: fadein ease-in 2s; */
+}
+
+/* @keyframes fadein{
+    from{
+        opacity: 0;
+    } 
+    to opacity: 1; */
+
+#about,
+#contact {
+  background-color: aqua;
+  color: rgb(61, 37, 37);
+  padding: 30px;
+}
+#about h1 {
+  margin-bottom: 0;
+}
+#about h2 {
+  margin-bottom: 0;
+}
+
+#contact {
+  background-color: rgb(126, 126, 215);
+}
+.col-6 {
+  font-size: 25px;
+  padding: 10px;
+}
+#contact input,
+#contact textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+#contact a {
+  color: white;
+}
+#contact .btn-primary {
+  width: 100%;
+  background-color: rgb(28, 68, 68);
+}
+
+#Portfolio {
+  background: slateblue;
+  padding: 30px;
+}
+footer {
+  background-color: black;
+  color: white;
+  padding: 30px;
+  font-size: 30px;
+}
+.bg-dark {
+  background-color: rgb(173, 142, 142) !important;
+}
+#projectDetails {
+  background: #124559;
+  color: white;
+  padding: 30px;
+}
+
+#projectDetails img {
+  border-radius: 10px;
+}
+
+#projectDetails #arrows {
+  font-size: 36px;
+  margin-top: 30px;
+}
+#techStack {
+  background-color: brown;
+  padding: 3px;
+  border-radius: 5px;
 }
