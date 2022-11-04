@@ -34,7 +34,7 @@ body {
   background-color: aqua;
   color: rgb(61, 37, 37);
   padding: 30px;
-  margin-bottom: 5px;
+  margin: 5px 10px 5px 10px;
   border-radius: 5px;
   border-color: black;
 }
