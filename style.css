@@ -1,5 +1,5 @@
 body {
-  background-image: url(romello-williams-P8VMwYFY-Es-unsplash.jpg);
+  background-image: url (chris-nguyen-lbmrrNgq2lo-unsplash.jpg);
 }
 
 #intro {
@@ -58,6 +58,11 @@ body {
 #contact a {
   color: white;
 }
+
+#colsm12 {
+  border-radius: 10px;
+}
+
 #contact .btn-primary {
   width: 100%;
   background-color: rgb(28, 68, 68);
