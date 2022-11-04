@@ -1,12 +1,10 @@
 body {
-  background-color: #ad425d;
+  background-image: url(romello-williams-P8VMwYFY-Es-unsplash.jpg);
 }
 
 #intro {
   height: 100vh;
   color: #000;
-  margin-bottom: 10px;
-  border-radius: 5px;
 }
 
 #intro code {
@@ -36,6 +34,9 @@ body {
   background-color: aqua;
   color: rgb(61, 37, 37);
   padding: 30px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border-color: black;
 }
 #about h1 {
   margin-bottom: 0;
@@ -44,9 +45,6 @@ body {
   margin-bottom: 0;
 }
 
-#contact {
-  background-color: rgb(126, 126, 215);
-}
 .col-6 {
   font-size: 25px;
   padding: 10px;
