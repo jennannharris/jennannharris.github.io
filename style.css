@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(88, 33, 128);
+  background-image: chris-nguyen-lbmrrNgq2lo-unsplash.jpg;
 }
 
 #intro {
@@ -35,7 +35,7 @@ body {
   color: rgb(61, 37, 37);
   padding: 30px;
   margin: 10px 15px 10px 15px;
-  border-radius: 5px;
+  border-radius: 55px;
   border-color: black;
 }
 #about h1 {
@@ -69,9 +69,10 @@ body {
 }
 
 #Portfolio {
-  background: slateblue;
+  background: aqua;
   padding: 30px;
   margin-bottom: 15px;
+  border-radius: 95px;
 }
 #cardWeather {
   margin-top: 30px;
@@ -81,7 +82,8 @@ body {
   margin-top: 350px;
 }
 #cardMax {
-  margin-top: 15px;
+  margin-top: 30px;
+  padding-bottom: 85px;
 }
 
 footer {
