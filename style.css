@@ -1,5 +1,8 @@
 body {
-  background-image-fluid: url("imgPort/Sky.jpg");
+  background-image: url("imgPort/Sky.jpg");
+
+  min-height: 525px;
+  background-size: cover;
 }
 
 #intro {
