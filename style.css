@@ -1,3 +1,7 @@
+body {
+  background-color: darkcyan;
+}
+
 #intro {
   height: 100vh;
   color: #000;
@@ -78,6 +82,7 @@ footer {
   padding: 30px;
   font-size: 30px;
 }
+
 .bg-dark {
   background-color: rgb(173, 142, 142) !important;
 }
@@ -85,6 +90,7 @@ footer {
   background: #124559;
   color: white;
   padding: 30px;
+  margin-bottom: 15px;
 }
 
 #projectDetails img {
@@ -99,4 +105,16 @@ footer {
   background-color: brown;
   padding: 3px;
   border-radius: 5px;
+}
+
+.colBtns {
+  color: white;
+  margin-right: 15px;
+  margin-bottom: 5px;
+}
+
+.colBtns2 {
+  color: white;
+  margin-right: 15px;
+  margin-bottom: 5px;
 }
