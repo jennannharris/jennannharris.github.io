@@ -3,13 +3,8 @@ body {
 }
 
 #intro {
-  height: 100vh;
-  color: #000;
-}
-
-#intro code {
   margin-top: 20px;
-  color: white;
+  color: #124559;
 }
 
 #intro h1 {
