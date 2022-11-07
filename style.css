@@ -23,7 +23,9 @@
 #links,
 #linksMedium {
   font-size: 20px;
-  font-weight: 50px;
+  background-color: antiquewhite;
+  color: white;
+  font-weight: 75px;
   margin-bottom: 10px;
   text-align: center;
 }
