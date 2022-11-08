@@ -1,12 +1,10 @@
-/*body {
-  background-image: <img src= "https://unsplash.com/photos/lbmrrNgq2lo" alt=
-    "Sky and Clouds" <a
-    href=/Users/jenniferharris/Documents/GitHub/jennannharris.github.io/chris-nguyen-lbmrrNgq2lo-unsplash.jpg>;
-}*/
-
-#body {
-  background-color: rgb(109, 189, 192);
+body {
+  background-image: <img src= "Romello.jpg" alt= "Sky and Clouds";
 }
+
+/*#body {
+  background-color: rgb(109, 189, 192);
+}*/
 
 #intro {
   margin-top: 20px;
