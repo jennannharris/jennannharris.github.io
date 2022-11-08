@@ -1,10 +1,10 @@
-body {
+/*body {
   background-image: <img src= "Romello.jpg" alt= "Sky and Clouds";
-}
-
-/*#body {
-  background-color: rgb(109, 189, 192);
 }*/
+
+#body {
+  background-color: rgb(109, 189, 192);
+}
 
 #intro {
   margin-top: 20px;
